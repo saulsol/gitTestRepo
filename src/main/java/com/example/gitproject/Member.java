@@ -10,3 +10,4 @@ public class Member {
 
     int age;
 }
+// 바보
