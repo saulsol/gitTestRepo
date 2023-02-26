@@ -6,5 +6,7 @@ public class Member {
 
     String birthDate;
 
+    String country;
+
     int age;
 }
