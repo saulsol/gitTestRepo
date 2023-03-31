@@ -8,6 +8,10 @@ public class Member {
 
     String country;
 
+    String family;
+
+    String home;
+
     int age;
 }
 // 바보
